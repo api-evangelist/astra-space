@@ -1,0 +1,48 @@
+# Astra
+
+> Astra is a commercial space company providing dedicated small satellite launch services and flight-proven electric propulsion systems. Founded in 2016 in Alameda, California, Astra's mission is to Improve Life on Earth from Space®.
+
+Astra offers two core products: Launch Services via Rocket 4, targeting 600 kg payload capacity to low Earth orbit with weekly launch cadence, and the Astra Spacecraft Engine™, a flight-proven Hall-effect electric propulsion system for satellites. Astra became the fastest privately funded U.S. company to reach orbit in 2021. The company went private in July 2024 to accelerate development, with Rocket 4's first flight targeted for summer 2026.
+
+## Products
+
+- [Launch Services](https://astra.com/launch/): Dedicated orbital launch services for small satellites via Rocket 4 and Launch System 2, with specs on payload capacity, fairing dimensions, and spaceport locations
+- [Rocket 4 Payload User's Guide](https://cdn.prod.website-files.com/6939ba79cc2078e5f2e84582/694c1076d2af33faff77c6a2_Rocket-4-Payload-Users-Guide-v1.1-November-22.pdf): Technical specifications, payload requirements, environments, and mission planning details for Rocket 4
+- [Astra Spacecraft Engine](https://astra.com/satellite-engine/): Flight-proven Hall-effect electric propulsion systems for satellite constellations, available in single and multi-thruster configurations (2, 3, or 4 string)
+- [Astra Spacecraft Engine Data Sheet](https://astra.com/wp-content/uploads/2023/01/ASE-DATA-SHEET-2023-1.pdf): Technical specifications for the Astra Spacecraft Engine including thruster, PPU, feed system, and propellant tank details
+
+## Company
+
+- [About Astra](https://astra.com/about/): Company mission, history, and detailed milestones from founding in 2016 through the 2024 take-private transaction
+- [Leadership](https://astra.com/management/): Executive team including Chris Kemp (CEO), Dr. Adam London (CTO), Martin Attiq (CBO), and program heads
+- [Team](https://astra.com/team/): Key personnel with individual profile pages
+- [Careers](https://astra.com/careers/): Current job openings and benefits information
+- [Contact](https://astra.com/contact/): Inquiries for launch services and spacecraft engines
+- [Gallery](https://astra.com/gallery/): Photo and media gallery
+
+## Business Inquiries
+
+- [Launch With Us](https://astra.com/launch-with-us/): Launch services inquiry form
+- [Build With Us](https://astra.com/build-with-us/): Spacecraft engine partnership inquiries
+- [Supplier Request Form](https://astra.com/supplier-request-form/): Vendor and supplier inquiries
+- [Shop](https://shop.astra.com): Official Astra merchandise store
+
+## News & Updates
+
+- [News](https://astra.com/news/): Company announcements, press releases, mission updates, and technical articles
+- [Astra Ships 110 Satellite Engines](https://astra.com/news/astra-ships-110): January 2026 milestone on spacecraft engine production and 2026 Rocket 4 test flight progress
+- [Dr. Alan Weston Appointed Head of Launch Program](https://astra.com/news/astra-appoints-weston/): March 2025 announcement of veteran aerospace leader joining to drive Rocket 4 development
+- [DoD Awards $44 Million Contract](https://astra.com/news/dod-awards-astra-contract-44-mill/): October 2024 Defense Innovation Unit contract supporting Rocket 4 and tactical launch system development
+- [Closing of Take-Private Transaction](https://astra.com/news/closing-private/): July 2024 announcement of Astra returning to private ownership
+- [Interview: Chris Kemp and Ashlee Vance](https://astra.com/news/interview-chris-kemp-and-ashlee-vance-on-whats-next-for-astra/): April 2025 discussion on Astra's journey and future plans
+
+## Technical Resources
+
+- [On-Orbit Validation of the Astra Spacecraft Engine](https://astra.com/news/on-orbit-validation-of-the-astra-spacecraft-engine/): Technical overview with on-orbit performance data from the Sherpa-LTE1 mission demonstrating 300+ successful burns
+- [Launch System 2 Update](https://astra.com/news/launch-system-2-update/): Detailed technical architecture of Rocket 4 including first stage, upper stage, fairing, and ground system design
+- [Sitemap](https://astra.com/sitemap/): Complete index of all pages and news articles on the site
+
+## Optional
+
+- [Welcome to Astra](https://astra.com/news/welcome-to-astra/): Original February 2020 company introduction explaining Astra's founding vision
+- [Privacy Policy](https://astra.com/privacy-policy/): Astra's privacy policy
