@@ -11,6 +11,17 @@ description: 'Astra is a commercial space company providing dedicated small sate
   machine-readable specification; its buyer-facing surface is a set of launch-services
   and spacecraft-engine inquiry forms alongside a published Rocket 4 Payload User''s
   Guide and engine data sheet.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/6939ba79cc2078e5f2e84582/6967ec5d0af94e30264c8800_astra-launch.jpeg
 url: https://raw.githubusercontent.com/api-evangelist/astra-space/refs/heads/main/apis.yml
 x-type: company
